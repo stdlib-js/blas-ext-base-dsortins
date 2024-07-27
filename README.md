@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@esm/index.mjs';
+import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@v0.2.2-esm/index.mjs';
 ```
 
 #### dsortins( N, order, x, stride )
@@ -154,7 +154,7 @@ dsortins.ndarray( 3, 1.0, x, 1, x.length-3 );
 
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 var uniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform' ).factory;
-import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@esm/index.mjs';
+import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@v0.2.2-esm/index.mjs';
 
 var x = filledarrayBy( 100, 'float64', uniform( -100.0, 100.0 ) );
 console.log( x );
