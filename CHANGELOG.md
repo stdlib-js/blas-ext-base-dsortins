@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-10)
+## Unreleased (2025-02-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3ec92ae`](https://github.com/stdlib-js/stdlib/commit/3ec92aeaefd8a73587ab8a9e153e654da87c553f) - **docs:** update related packages sections [(#5401)](https://github.com/stdlib-js/stdlib/pull/5401) _(by stdlib-bot)_
 -   [`347e559`](https://github.com/stdlib-js/stdlib/commit/347e5590cf124d86a7bbe1b7f734bb620bdeb5ba) - **docs:** fix incorrect structure in READMEs of `blas/ext/base/*` [(#5163)](https://github.com/stdlib-js/stdlib/pull/5163) _(by Aayush Khanna, Athan Reines)_
 -   [`84b7614`](https://github.com/stdlib-js/stdlib/commit/84b76143e3ee6e279536cbfcd8f3ef94e026bd60) - **chore:** address commit comment feedback [(#5078)](https://github.com/stdlib-js/stdlib/pull/5078) _(by Mohammad Bin Aftab, Philipp Burckhardt)_
 -   [`d924c8d`](https://github.com/stdlib-js/stdlib/commit/d924c8d2c48611f1c90312877e39bf3e8df063c2) - **feat:** add C ndarray API and refactor `blas/ext/base/dsortins` [(#5028)](https://github.com/stdlib-js/stdlib/pull/5028) _(by Prashant Kumar Yadav, stdlib-bot)_
