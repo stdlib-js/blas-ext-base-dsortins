@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-04-25)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`4e8417c`](https://github.com/stdlib-js/stdlib/commit/4e8417ce4fc30b5ef604a588a52042d7423b9fc1) - **bench:** fix Makefile and move to subfolder _(by Athan Reines)_
 -   [`3ec92ae`](https://github.com/stdlib-js/stdlib/commit/3ec92aeaefd8a73587ab8a9e153e654da87c553f) - **docs:** update related packages sections [(#5401)](https://github.com/stdlib-js/stdlib/pull/5401) _(by stdlib-bot)_
 -   [`347e559`](https://github.com/stdlib-js/stdlib/commit/347e5590cf124d86a7bbe1b7f734bb620bdeb5ba) - **docs:** fix incorrect structure in READMEs of `blas/ext/base/*` [(#5163)](https://github.com/stdlib-js/stdlib/pull/5163) _(by Aayush Khanna, Athan Reines)_
