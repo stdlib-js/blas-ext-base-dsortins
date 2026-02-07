@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@esm/index.mjs';
+import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@v0.3.1-esm/index.mjs';
 ```
 
 #### dsortins( N, order, x, strideX )
@@ -153,7 +153,7 @@ dsortins.ndarray( 3, 1.0, x, 1, x.length-3 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@esm/index.mjs';
+import dsortins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsortins@v0.3.1-esm/index.mjs';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
