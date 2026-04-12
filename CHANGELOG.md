@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-11)
+## Unreleased (2026-04-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5cd4771`](https://github.com/stdlib-js/stdlib/commit/5cd4771232fb55177f21eae72c44ddf62d9fe6d6) - **bench:** refactor to use string interpolation in `blas/ext/base` [(#11376)](https://github.com/stdlib-js/stdlib/pull/11376) _(by Karan Anand)_
 -   [`be217cb`](https://github.com/stdlib-js/stdlib/commit/be217cb556c03812a58ba0d7a85708749f7dd3e0) - **bench:** fix descriptions _(by Athan Reines)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
 -   [`815ead6`](https://github.com/stdlib-js/stdlib/commit/815ead632da74b38efea5b512189599ebda62f67) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsortins` [(#11098)](https://github.com/stdlib-js/stdlib/pull/11098) _(by Prajjwal Bajpai)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Prajjwal Bajpai
 
 </section>
