@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-07)
+## Unreleased (2026-09-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`66f69b6`](https://github.com/stdlib-js/stdlib/commit/66f69b6a7b81b28dce3b9b155a9d5fa4379184c0) - **bench:** fix data generation in `blas/ext/base` sort benchmarks [(#15512)](https://github.com/stdlib-js/stdlib/pull/15512) _(by JoyBoy)_
 -   [`5cd4771`](https://github.com/stdlib-js/stdlib/commit/5cd4771232fb55177f21eae72c44ddf62d9fe6d6) - **bench:** refactor to use string interpolation in `blas/ext/base` [(#11376)](https://github.com/stdlib-js/stdlib/pull/11376) _(by Karan Anand)_
 -   [`be217cb`](https://github.com/stdlib-js/stdlib/commit/be217cb556c03812a58ba0d7a85708749f7dd3e0) - **bench:** fix descriptions _(by Athan Reines)_
 -   [`f9d1409`](https://github.com/stdlib-js/stdlib/commit/f9d140985e169d34f4e66bd770dc675ea28588a3) - **docs:** add missing JSDoc comment _(by Athan Reines)_
@@ -27,9 +28,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   JoyBoy
 -   Karan Anand
 -   Prajjwal Bajpai
 
